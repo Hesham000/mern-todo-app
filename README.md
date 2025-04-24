@@ -36,9 +36,9 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for task manage
 - **JWT**: For secure authentication
 - **Express Validator**: For request validation
 
-## Screenshots
+## Demo
 
-*Coming soon*
+View a quick demo of the app in action: [Watch Video](https://streamable.com/ix4we3)
 
 ## API Documentation
 
