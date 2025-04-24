@@ -38,12 +38,10 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for task manage
 
 ## Demo
 
-Watch a quick demo of the app in action:
-
 <div align="center">
-  <a href="https://streamable.com/ix4we3" target="_blank">
-    <img src="https://cdn.streamable.com/video/ix4we3.jpg" alt="Todo App Demo" width="600">
-  </a>
+  
+  [![Watch Demo](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=youtube)](https://streamable.com/ix4we3)
+  
 </div>
 
 ## API Documentation
