@@ -38,7 +38,13 @@ A full-stack MERN (MongoDB, Express, React, Node.js) application for task manage
 
 ## Demo
 
-View a quick demo of the app in action: [Watch Video](https://streamable.com/ix4we3)
+Watch a quick demo of the app in action:
+
+<div align="center">
+  <a href="https://streamable.com/ix4we3" target="_blank">
+    <img src="https://cdn.streamable.com/video/ix4we3.jpg" alt="Todo App Demo" width="600">
+  </a>
+</div>
 
 ## API Documentation
 
